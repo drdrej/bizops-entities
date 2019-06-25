@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <packaging>JAR</packaging>
+    <packaging>jar</packaging>
 
     <groupId>com.touchableheroes.bizops</groupId>
     <artifactId>entities</artifactId>
