@@ -13,7 +13,7 @@
 
     <groupId>com.touchableheroes.bizops</groupId>
     <artifactId>entities</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>bizops-entities</name>
 
     <description>bizops-entities - Collection of Entities for Bizops Projects.</description>
